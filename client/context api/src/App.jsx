@@ -1,19 +1,3 @@
-// import { useState } from "react";
-// import UserContextProvider from "./context/UserContextProvider";
-// import Login from "./components/Login";
-// import Profile from "./components/Profile";
-
-// function App() {
-//   return (
-//     <UserContextProvider>
-//       <h1>Code With Bhushan </h1>
-//       <Login />
-//       <Profile />
-//     </UserContextProvider>
-//   );
-// }
-
-// export default App;
 
 import { useState } from "react";
 import UserContextProvider from "./context/UserContextProvider";
